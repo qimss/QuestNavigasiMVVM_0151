@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">firstapp</string>
+    <string name="submit">Submit</string>
+
 </resources>
